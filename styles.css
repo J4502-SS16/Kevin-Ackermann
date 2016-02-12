@@ -50,12 +50,11 @@ a:active {
 img {width:auto;
   height:auto;}
 
-div {
-column-count: 2;}
 
 #container{
   margin:-20px auto;
   background-color: lightblue;
   width:800px;
   padding: 50px;
+  column-count: 2;
 }
