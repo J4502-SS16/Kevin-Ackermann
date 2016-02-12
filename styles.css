@@ -51,10 +51,7 @@ img {width:auto;
   height:auto;}
 
 div {
-    -webkit-column-count: 2
-    -moz-column-count: 2; 
-    column-count: 2;
-}
+column-count: 2;}
 
 #container{
   margin:-20px auto;
